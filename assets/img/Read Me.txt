@@ -1,0 +1,1 @@
+Image dimension should be 1920*976 pixels
